@@ -1,0 +1,6 @@
+name: 'GroceryListBackend'
+version: '1.0.0'
+description: 'A fully implemented grocery list back end'
+repository: 'https://github.com/Appsolutely-Wonderful/dart-grocery-list'
+environment:
+  sdk: '>=2.10.0 <3.0.0'
